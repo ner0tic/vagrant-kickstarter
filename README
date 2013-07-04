@@ -1,0 +1,9 @@
+# Vagrant Template
+
+Add this to a project to add vagrant/puppet support. It can be used as template for new projects.
+
+##Setup
+In your project directory:
+    -   Copy `vagrant/Personalization.dist` to `vagrant/Personalization` and modify `vagrant/Personalization` according to your needs.
+    -   Execute "vagrant up" in the directory vagrant.
+
